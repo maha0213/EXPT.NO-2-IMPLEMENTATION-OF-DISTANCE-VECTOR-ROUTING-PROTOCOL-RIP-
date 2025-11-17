@@ -1,18 +1,19 @@
 # EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
+
 # AIM:
-
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
+
 # EQUIPMENTS REQUIRED:
-
-
+PC With Cisco Packet Tracer 5.0 Software
 
 # IP ASSIGNMENT:
-
+![WhatsApp Image 2025-11-17 at 20 34 35_c7aa3651](https://github.com/user-attachments/assets/c4e188ff-7670-4caf-800c-cd44d36b7856)
 
 
 # NETWORK DIAGRAM:
-# PROCEDURE:
+![WhatsApp Image 2025-11-17 at 19 40 25_2c366e5d](https://github.com/user-attachments/assets/0047571e-5e4f-4acf-8852-617513b90fec)
 
+# PROCEDURE:
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool barand drop it in work area.
 STEP 3: Connect all the PC Terminals and Routers through Switches as shown in the networkdiagram using CAT 6 Patch cables.
@@ -79,9 +80,10 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
-
+![WhatsApp Image 2025-11-17 at 20 35 18_31bba1e4](https://github.com/user-attachments/assets/f8d3c7b0-faeb-4d9a-8a4a-8033b8ca52f4)
+![WhatsApp Image 2025-11-17 at 20 35 44_4e522434](https://github.com/user-attachments/assets/68e41ec2-c46e-49bc-a4df-05521e3f445c)
 
 
 # RESULT:
+Thus the computers in multiple networks using Distance Vector Routing is verified.
 
-Thus the computers in multiple networks using Distance Vector Routing <img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
